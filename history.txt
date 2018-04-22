@@ -1,0 +1,167 @@
+    1  ls
+    2  pwd
+    3  cd/usr/local/bin
+    4  cd /usr/local/bin
+    5  ./processing &
+    6  ./processing
+    7  ./processing&
+    8  /processing
+    9  ./processing
+   10  wget https://processing.org/download/install-arm.sh && sudo sh install-arm.sh
+   11  cd
+   12  wget https://processing.org/download/install-arm.sh && sudo sh install-arm.sh
+   13  clear
+   14  cd /usr/local/bin
+   15  ./processing &
+   16  ./processing
+   17  clear
+   18  cd
+   19  cd /usr/local/bin
+   20  ./processing &
+   21  cd /usr/local/bin
+   22  ./processing &
+   23  sudo apt install processing
+   24  RESOURCE_NAME=processing-pde
+   25  SCRIPT_PATH=$( cd $(dirname $0) ; pwd )
+   26  cd
+   27  SCRIPT_PATH=$( cd $(dirname $0) ; pwd )
+   28  xdg_install_f() { TMP_DIR=`mktemp --directory`;  sed -e "s,<BINARY_LOCATION>,${SCRIPT_PATH}/processing,g"       -e "s,<ICON_NAME>,${RESOURCE_NAME},g" "${SCRIPT_PATH}/lib/desktop.template" > "${TMP_DIR}/${RESOURCE_NAME}.desktop"; tar xvfz processing-3.3.7-linux64.tgz;  cd
+   29  tar xvfz processing-3.3.7-linux64.tgz
+   30  cd processing-3.3.7-linux64
+   31  dir
+   32  cd downloads
+   33  cd/downloads
+   34  chdir/downloads
+   35  cd Downloads
+   36  dir
+   37  install processing-3.3.7
+   38  tar xvfz processing-3.3.7-linux64.tgz
+   39  cd
+   40  dir
+   41  cd Downloads
+   42  cd
+   43  cd /usr/local/bin
+   44  ./processing &
+   45  dir
+   46  sudo apt processing
+   47  sudo sh install-arm.sh
+   48  cd
+   49  dir
+   50  sudo sh install-arm.sh
+   51  cd /usr/local/bin
+   52  ./processing &
+   53  cd /usr/local/bin
+   54  ./processing &
+   55  cd /usr/local/bin
+   56  ./processing &
+   57  c
+   58  git clone git://github.com/mariopineda/ascii-art-assignment.git
+   59  sudo apt install git
+   60  git clone git://github.com/mariopineda/ascii-art-assignment.git
+   61  cd ascii-art-assignment
+   62  https://github.com/Andreaded/hello-world-git-assignment-Andreaded/blob/master/poem.txt
+   63  cd
+   64  touch poem.txt
+   65  pwd
+   66  ls
+   67  nano poem.txt
+   68  cd /usr/local/bin
+   69  ./processing &
+   70  cd /usr/local/bin
+   71  ./processing &
+   72  ./processing &
+   73  ./processing
+   74  ./processing &
+   75  sudo apt install processing
+   76  curl https://processing.org/download/install-arm.sh | sudo sh
+   77  ./processing &
+   78  cd /usr/local/bin
+   79  ./processing &
+   80  ./processing
+   81  curl -L $TAR > processing-linux-$FLAVOR-latest.tgz
+   82  sudo sh install-arm.sh
+   83  cd /usr/local/bin
+   84  ./processing &
+   85  cd /usr/local/bin
+   86  ./processing
+   87  cd /usr/local/bin
+   88  ./processing
+   89  dir
+   90  cd processing
+   91  run processing
+   92  sudo processing
+   93  processing-java
+   94  ./processing
+   95  ./ processing
+   96  dir
+   97  processing
+   98  processing-java
+   99  ./processing &
+  100  /usr/local/lib/processing-3.3.7/java/bin/java:
+  101  /usr/local/lib/processing
+  102  case "$(file $(which file))" in   *aarch64*) FLAVOR="arm64"; TAR="$(curl -sL https://api.github.com/repos/processing/processing/releases | grep -oh -m 1 'https.*linux-arm64.tgz')" ;;   *)       FLAVOR="armv6hf"; TAR="$(curl -sL https://api.github.com/repos/processing/processing/releases | grep -oh -m 1 'https.*linux-armv6hf.tgz')" ;; esac
+  103  curl -L $TAR > processing-linux-$FLAVOR-latest.tgz
+  104  (curl -sL https://api.github.com/repos/processing/processing/releases | grep -oh -m 1 'https.*linux-arm64.tgz';  curl -sL https://api.github.com/repos/processing/processing/releases | grep -oh -m 1 'https.*linux-arm64.tgz
+  105  cd /usr/local/bin
+  106  ./processing &
+  107  ./processing
+  108  dir
+  109  cd /usr/local/bin
+  110  ./processing &
+  111  ./processing
+  112  dir
+  113  "./processing &"
+  114  "./processing"
+  115  clear
+  116  cd
+  117  touch nano.txt
+  118  nano nano.txt
+  119  ls
+  120  pwd
+  121  nano nano.txt
+  122  nano nano-cheat-sheet.txt
+  123  tar xvfz processing-3.7.7-linux64.tgz
+  124  cd /usr/local/bin
+  125  tar xvfz processing-3.7.7.tgz
+  126  dir
+  127  cat /etc/linuxmint/info
+  128  del processing
+  129  help
+  130  tar xvfz processing-3.7.7-linux64.tgz
+  131  RESOURCE_NAME=processing-pde
+  132  cd downloads
+  133  cd /downloads
+  134  cd
+  135  cd /downloads
+  136  cd /usr/local/bin
+  137  ./processing
+  138  install ./processing
+  139  dir
+  140  ./processing &
+  141  sudo sh uninstall-arm.sh
+  142  sudo sh processing
+  143  sudo sh processing-3.7.7-linux64
+  144  cd /usr/local/bin
+  145  dir
+  146  ./processing
+  147  help
+  148  dir
+  149  get https://processing.org/download/processing-3/7/7-linux64.tgz
+  150  rm processing-java
+  151  rm processing
+  152  clean
+  153  wget https://processing.org/download/install-arm.sh
+  154  sudo sh install-arm.sh
+  155  ./processing
+  156  cd /usr/local/bin
+  157  dir
+  158  cd
+  159  mkdir /usr/local/bin/
+  160  pwd
+  161  ls
+  162  nano
+  163  nano nano-cheat-sheet.txt 
+  164  touch poem.txt
+  165  terminal history > history.txt
+  166  history.txt
+  167  history > history.txt
